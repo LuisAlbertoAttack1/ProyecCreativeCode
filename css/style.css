@@ -1,0 +1,36 @@
+.ColorDeFondo{
+    background-color: #f8f9fa;
+}
+.TipoDeLetra{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Diseño De Pagina Login */
+
+
+
+/* Diseño De Pagina Principal */
+.TamDeImgModelo{
+    width: 25rem;
+    height: 22rem;
+}
+.ColorDeBoton{
+    background-color: #ced4da;
+}
+.card-home{
+    color: #000000;
+    transition-duration: 1s;
+    border-radius: 1rem;
+    border: none;
+}
+
+.card-home:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+    color: #000000;
+    border: 1px solid #000000;
+    border-top-left-radius: 1.1rem;
+    border-top-right-radius: 0.4rem;
+    border-bottom-right-radius: 1.1rem;
+    border-bottom-left-radius: 0.4rem;
+}
